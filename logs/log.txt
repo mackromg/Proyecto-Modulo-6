@@ -1,2 +1,13 @@
 [31-08-2026, 3:41:04 a. m.] - Ruta accedida: /
 [31-08-2026, 3:41:04 a. m.] - Ruta accedida: /favicon.ico
+[31-08-2026, 3:54:51 a. m.] - Ruta accedida: /status
+[31-08-2026, 3:55:01 a. m.] - Ruta accedida: /
+[31-08-2026, 3:55:55 a. m.] - Ruta accedida: /status
+[31-08-2026, 3:57:18 a. m.] - Ruta accedida: /
+[31-08-2026, 4:11:37 p. m.] - Ruta accedida: /usuarios/transaccion
+[31-08-2026, 4:12:18 p. m.] - Ruta accedida: /usuarios
+[31-08-2026, 4:13:01 p. m.] - Ruta accedida: /usuarios
+[31-08-2026, 4:13:12 p. m.] - Ruta accedida: /usuarios
+[31-08-2026, 4:14:18 p. m.] - Ruta accedida: /usuarios/1
+[31-08-2026, 4:14:56 p. m.] - Ruta accedida: /usuarios/1
+[31-08-2026, 4:15:39 p. m.] - Ruta accedida: /usuarios/transaccion
